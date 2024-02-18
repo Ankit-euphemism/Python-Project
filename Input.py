@@ -1,0 +1,11 @@
+val=input("Enter your Name:")
+age=int(input("Enter the Age:"))
+Marks=float(input("Enter the marks:"))
+print("My college details:-")
+print("My Name:",val,type(val))
+print("My Age:",age,type(age))
+print("My marks:",Marks,type(Marks))
+
+a=float(input("Enter First number:"))
+b= float(input("Enter Second number:"))
+print("Average:",a+b/2)
