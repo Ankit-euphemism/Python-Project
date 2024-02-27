@@ -1,7 +1,8 @@
 #String
 c="Hello World"
-print(c)
-#integer-my whole number
+d="5"
+print(c,d)
+#integer-any whole number
 a=596
 print(a)
 #float-Decimal value
